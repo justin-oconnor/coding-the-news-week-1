@@ -12,5 +12,5 @@ I'm learning code from Ben Welsh. You can reach me at [justin.oconnor@theadvocat
 
 ## Block Quote
 
-> This is a block quote of text.
+> This is a block quote of text.  
 > This will render on the second line.
